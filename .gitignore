@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor / IDE folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary / log files
+*.log
+*.tmp
+*.bak
+~*
+
+# macOS metadata
+.AppleDouble
+.LSOverride
+
+# Windows shortcuts / thumbs
+*.lnk
