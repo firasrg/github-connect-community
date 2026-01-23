@@ -1,8 +1,8 @@
-# Github Connect Discord Community
+# Githubers Discord Community
 
-[![Discord](https://img.shields.io/discord/1460585517379883083?color=7289da&label=Join%20Github%20Connect&logo=discord&logoColor=white)](https://discord.com/invite/qFGSQAUyQU)
-[![GitHub stars](https://img.shields.io/github/stars/firasrg/github-connect-community?style=social&cacheSeconds=0)](https://github.com/firasrg/github-connect-community/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/firasrg/github-connect-community)](https://github.com/firasrg/github-connect-community/commits/main)
+[![Discord](https://img.shields.io/discord/1460585517379883083?color=7289da&label=Join%20Githubers&logo=discord&logoColor=white)](https://discord.com/invite/qFGSQAUyQU)
+[![GitHub stars](https://img.shields.io/github/stars/firasrg/githubers-community?style=social&cacheSeconds=0)](https://github.com/firasrg/githubers-community/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/firasrg/githubers-community)](https://github.com/firasrg/githubers-community/commits/main)
 
 **A friendly, active community for GitHub users to connect, share experiences, ask for help, discuss best practices, and grow together, focused on popular features like repos, actions, copilots, open source, and more.**
 
